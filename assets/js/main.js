@@ -14,5 +14,7 @@ var app = new Vue({
         message: 'Hello Vue JS',
         flexClass: 'container d-flex justify-content-center align-items-center mt-5',
         titleClass: 'text-danger',
+        sizing25: 'w-25 me-4',
+        url: 'https://www.boolean.careers/images/misc/logo.png'
     }
 })
