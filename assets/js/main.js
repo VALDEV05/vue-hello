@@ -12,5 +12,7 @@ var app = new Vue({
     el: '#app',
     data: {
         message: 'Hello Vue JS',
+        flexClass: 'container d-flex justify-content-center align-items-center mt-5',
+        titleClass: 'text-danger',
     }
 })
